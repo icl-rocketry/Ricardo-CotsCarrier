@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2",0603,2,LED_Small,
+J1,XT30PWF,1,XT30PW-F,
+J2,XT30PWM,1,XT30PW-M,
+"R1, R2",0603,2,5.1k,
+U1,DDTCCRUB_COTS_Charger,1,COTS Charger,
+U2,LM2596_COTS_Buck,1,COTS LM2596 Buck,
